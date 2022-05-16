@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874609825684",
+    "firebase_url": "https://seesharp-a4cf6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "seesharp-a4cf6",
+    "storage_bucket": "seesharp-a4cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874609825684:android:7efd8ca8054748e1c5a181",
+        "android_client_info": {
+          "package_name": "com.parentalcontrol.seesharp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874609825684-q37c1kpid0qqkc19ia8s56diu3p73vss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobJ0ghwfxS6K6o-qLMztxmFG1Cl3lMMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874609825684-q37c1kpid0qqkc19ia8s56diu3p73vss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
